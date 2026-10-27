@@ -1,0 +1,10 @@
+# Built binaries (from `go build`)
+/main
+/word-frequency
+
+# Test and coverage output
+*.test
+*.out
+
+# macOS
+.DS_Store
